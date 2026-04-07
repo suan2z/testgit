@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: Lucky Defense 기획 저장소
+theme:
+  name: material
+  language: ko
+
+nav:
+  - 홈: index.md
+  - 분석 리포트: analysis.md
